@@ -7,4 +7,5 @@ int main() {
 	MyString rezult;
 	rezult = a + b;
 	rezult.Show();
+	//YATUT
 }
